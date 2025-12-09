@@ -22,6 +22,7 @@ Working......
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
@@ -35,6 +36,7 @@ Working......
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
