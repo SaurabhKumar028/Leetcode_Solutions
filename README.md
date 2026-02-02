@@ -31,6 +31,7 @@ Working......
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Linked List
 |  |
@@ -72,4 +73,16 @@ Working......
 | [0125-valid-palindrome](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
