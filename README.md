@@ -11,6 +11,7 @@ Working......
 | [0622-design-circular-queue](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3379-transformed-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3637-trionic-array-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -103,4 +104,8 @@ Working......
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
