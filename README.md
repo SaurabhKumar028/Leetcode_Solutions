@@ -10,6 +10,7 @@ Working......
 | [0189-rotate-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
