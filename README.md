@@ -7,6 +7,7 @@ Working......
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0204-count-primes) |
@@ -77,12 +78,14 @@ Working......
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0283-move-zeroes) |
