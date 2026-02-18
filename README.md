@@ -31,6 +31,7 @@ Working......
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 ## String
 |  |
