@@ -10,6 +10,7 @@ Working......
 | [0031-next-permutation](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0136-single-number) |
@@ -79,6 +80,7 @@ Working......
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -169,4 +171,5 @@ Working......
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
