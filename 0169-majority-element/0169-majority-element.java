@@ -1,20 +1,38 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        
-        int n = nums.length;
-        int checkpoint = n /2;
-        
-        HashMap<Integer , Integer > map = new HashMap<>();
 
-        for(int num : nums){
-            map.put(num , map.getOrDefault(num, 0)+1);
-        }
-        
-        for(Map.Entry<Integer , Integer> entry : map.entrySet()){
-             if (entry.getValue() > checkpoint) {   // ✔ correct condition
-                return entry.getKey();              // ✔ return element
+        // int n = nums.length;
+        // int checkpoint = n /2;
+
+        // HashMap<Integer , Integer > map = new HashMap<>();
+
+        // for(int num : nums){
+        //     map.put(num , map.getOrDefault(num, 0)+1);
+        // }
+
+        // for(Map.Entry<Integer , Integer> entry : map.entrySet()){
+        //      if (entry.getValue() > checkpoint) {   
+        //         return entry.getKey();             
+        //     }
+        // }
+        // return -1;
+
+        int count = 0;
+        int candidate = 0;
+
+        for (int num : nums) {
+            if (count == 0) {
+                candidate = num;
+            }
+
+            if (num == candidate) {
+                count++;
+            } else {
+                count--;
             }
         }
-        return -1;
+
+        return candidate;
     }
+
 }
