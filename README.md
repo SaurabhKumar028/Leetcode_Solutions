@@ -22,6 +22,7 @@ Working......
 | [0485-max-consecutive-ones](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
+| [0704-binary-search](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -129,6 +130,7 @@ Working......
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
