@@ -9,6 +9,7 @@ Working......
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -85,6 +86,7 @@ Working......
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0169-majority-element) |
