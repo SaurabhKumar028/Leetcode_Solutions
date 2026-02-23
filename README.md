@@ -41,6 +41,7 @@ Working......
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Working......
 | [0344-reverse-string](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -95,6 +97,7 @@ Working......
 | [0229-majority-element-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Greedy
 |  |
@@ -187,4 +190,12 @@ Working......
 | ------- |
 | [0048-rotate-image](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
