@@ -39,6 +39,7 @@ Working......
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -64,6 +65,7 @@ Working......
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0204-count-primes) |
