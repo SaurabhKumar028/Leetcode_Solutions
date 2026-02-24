@@ -53,6 +53,7 @@ Working......
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1678-goal-parser-interpretation](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
 ## Stack
 |  |
 | ------- |
