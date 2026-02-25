@@ -29,6 +29,7 @@ Working......
 | [0622-design-circular-queue](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1748-sum-of-unique-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -45,6 +46,7 @@ Working......
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
@@ -119,6 +121,7 @@ Working......
 | [0075-sort-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
@@ -179,6 +182,7 @@ Working......
 | ------- |
 | [0169-majority-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1748-sum-of-unique-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Tree
 |  |
