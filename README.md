@@ -78,6 +78,7 @@ Working......
 | [0048-rotate-image](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -166,6 +167,7 @@ Working......
 | ------- |
 | [0035-search-insert-position](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0704-binary-search) |
