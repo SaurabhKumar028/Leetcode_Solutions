@@ -76,6 +76,7 @@ Working......
 | ------- |
 | [0029-divide-two-integers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
@@ -166,6 +167,7 @@ Working......
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
