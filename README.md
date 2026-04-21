@@ -38,6 +38,7 @@ Working......
 | [1480-running-sum-of-1d-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -128,6 +129,7 @@ Working......
 | [0680-valid-palindrome-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
