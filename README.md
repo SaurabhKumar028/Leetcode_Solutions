@@ -12,6 +12,7 @@ Working......
 | [0031-next-permutation](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -72,6 +73,7 @@ Working......
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -149,6 +151,7 @@ Working......
 | [0015-3sum](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0189-rotate-array) |
@@ -160,6 +163,7 @@ Working......
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -247,4 +251,8 @@ Working......
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
