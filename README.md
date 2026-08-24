@@ -88,6 +88,7 @@ Working......
 | ------- |
 | [0029-divide-two-integers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0204-count-primes) |
@@ -178,6 +179,7 @@ Working......
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Recursion
@@ -272,4 +274,8 @@ Working......
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
