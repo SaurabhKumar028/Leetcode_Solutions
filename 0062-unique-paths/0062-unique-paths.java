@@ -5,7 +5,7 @@ class Solution {
 
             int option = Math.min(m-1,n-1);
 
-            long ans = 1;
+            long   ans = 1;
 
             for(int i =1;i <= option;i++){
                 ans = ans*(N - option +i)/i;
