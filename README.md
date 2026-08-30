@@ -48,6 +48,7 @@ Working......
 | [1748-sum-of-unique-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3379-transformed-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3379-transformed-array) |
@@ -146,6 +147,7 @@ Working......
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
