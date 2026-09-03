@@ -56,6 +56,7 @@ Working......
 | [3637-trionic-array-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3637-trionic-array-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Working......
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Linked List
 |  |
 | ------- |
