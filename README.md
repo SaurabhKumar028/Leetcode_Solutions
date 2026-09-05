@@ -58,6 +58,7 @@ Working......
 | [3875-construct-uniform-parity-array-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -230,6 +231,7 @@ Working......
 | [1732-find-the-highest-altitude](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |
