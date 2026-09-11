@@ -39,6 +39,7 @@ Working......
 | [0704-binary-search](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0983-minimum-cost-for-tickets](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1331-rank-transform-of-an-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -198,6 +199,7 @@ Working......
 | [0213-house-robber-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [0983-minimum-cost-for-tickets](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Recursion
 |  |
