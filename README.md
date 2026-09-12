@@ -20,6 +20,7 @@ Working......
 | [0088-merge-sorted-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0189-rotate-array) |
@@ -78,6 +79,7 @@ Working......
 | ------- |
 | [0115-distinct-subsequences](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -140,6 +142,7 @@ Working......
 | [0041-first-missing-positive](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
@@ -198,6 +201,7 @@ Working......
 | [0053-maximum-subarray](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0322-coin-change) |
@@ -212,6 +216,7 @@ Working......
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -315,4 +320,12 @@ Working......
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
