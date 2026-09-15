@@ -90,6 +90,7 @@ Working......
 | [1678-goal-parser-interpretation](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Working......
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
@@ -196,6 +198,7 @@ Working......
 | [0680-valid-palindrome-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +213,7 @@ Working......
 | [0509-fibonacci-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0983-minimum-cost-for-tickets](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
 | ------- |
