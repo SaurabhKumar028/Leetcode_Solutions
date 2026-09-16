@@ -112,6 +112,7 @@ Working......
 | [0633-sum-of-square-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3870-count-commas-in-range](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -212,6 +213,7 @@ Working......
 | [0322-coin-change](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0983-minimum-cost-for-tickets](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
@@ -248,6 +250,7 @@ Working......
 | [0560-subarray-sum-equals-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -315,6 +318,7 @@ Working......
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Breadth-First Search
 |  |
 | ------- |
