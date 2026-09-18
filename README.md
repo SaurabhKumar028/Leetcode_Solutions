@@ -30,6 +30,7 @@ Working......
 | [0219-contains-duplicate-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -213,6 +214,7 @@ Working......
 | [0139-word-break](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0983-minimum-cost-for-tickets](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0983-minimum-cost-for-tickets) |
@@ -237,6 +239,7 @@ Working......
 | [0035-search-insert-position](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -347,4 +350,8 @@ Working......
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
