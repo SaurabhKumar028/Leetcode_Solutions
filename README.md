@@ -118,6 +118,7 @@ Working......
 | [3870-count-commas-in-range](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Linked List
 |  |
 | ------- |
@@ -218,6 +219,7 @@ Working......
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Recursion
 |  |
 | ------- |
