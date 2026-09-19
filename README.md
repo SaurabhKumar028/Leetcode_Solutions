@@ -55,6 +55,7 @@ Working......
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3379-transformed-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3379-transformed-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -162,6 +163,7 @@ Working......
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1748-sum-of-unique-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1748-sum-of-unique-elements) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Greedy
@@ -225,6 +227,7 @@ Working......
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Recursion
 |  |
