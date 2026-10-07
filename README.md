@@ -93,6 +93,7 @@ Working......
 | [0115-distinct-subsequences](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0139-word-break) |
+| [0301-remove-invalid-parentheses](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -379,6 +380,7 @@ Working......
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -426,4 +428,5 @@ Working......
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
