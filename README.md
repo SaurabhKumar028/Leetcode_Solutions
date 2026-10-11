@@ -60,6 +60,7 @@ Working......
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3379-transformed-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3379-transformed-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -174,6 +175,7 @@ Working......
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
