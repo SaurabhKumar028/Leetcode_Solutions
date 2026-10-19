@@ -56,6 +56,7 @@ Working......
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -240,6 +241,7 @@ Working......
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
@@ -311,6 +313,7 @@ Working......
 | [0852-peak-index-in-a-mountain-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
