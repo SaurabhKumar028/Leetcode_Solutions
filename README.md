@@ -63,6 +63,7 @@ Working......
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -231,6 +232,7 @@ Working......
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -250,6 +252,7 @@ Working......
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
