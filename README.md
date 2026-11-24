@@ -71,6 +71,7 @@ Working......
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3379-transformed-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -161,6 +162,7 @@ Working......
 | [1352-product-of-the-last-k-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -191,11 +193,13 @@ Working......
 | ------- |
 | [0204-count-primes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -338,6 +342,7 @@ Working......
 | [0219-contains-duplicate-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
