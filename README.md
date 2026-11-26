@@ -26,6 +26,7 @@ Working......
 | [0169-majority-element](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -387,6 +388,7 @@ Working......
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -395,12 +397,14 @@ Working......
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -428,6 +432,7 @@ Working......
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/SaurabhKumar028/Leetcode_Solutions/tree/master/0322-coin-change) |
 ## Knapsack Problem
